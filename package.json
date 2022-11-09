@@ -1,0 +1,8 @@
+{
+  "name": "blog_api",
+  "version": "1.0.0",
+  "description": "API practice",
+  "main": "server.js",
+  "author": "Emmanuel Eni <eejeba@gmail.com>",
+  "license": "MIT"
+}
