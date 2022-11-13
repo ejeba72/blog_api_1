@@ -5,4 +5,4 @@ const router = Router();
 
 router.get('/', health);
 
-module.exports = { router };
+module.exports = { healthRouter: router };
